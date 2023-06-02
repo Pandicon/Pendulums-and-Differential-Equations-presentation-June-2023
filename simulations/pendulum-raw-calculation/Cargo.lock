@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "pendulum"
-version = "0.1.0"
+name = "pendulum-raw-calculation"
+version = "1.0.0"
